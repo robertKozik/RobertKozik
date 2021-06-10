@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, GraphQL, React Native**
 
-- 👨‍💻 All of my projects are available at [https://rkozik.live](https://rkozik.live)
+- 👨‍💻 All of my projects are available at [rkozik.live](https://www.rkozik.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
