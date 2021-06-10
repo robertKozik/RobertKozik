@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Robert Kozik</h1>
 <h3 align="center">A aspiring developer, and still student, from Poland</h3>
 
