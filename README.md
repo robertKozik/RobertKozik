@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [management app](https://github.com/RobertKozik/Kanban_style_webapp)
 
-- 🌱 I’m currently learning **React, GraphQL, React Native**
+- 🌱 I’m currently learning **React, GraphQL**
 
 - 👨‍💻 All of my projects are available at [rkozik.live](https://www.rkozik.live)
 
