@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robert Kozik</h1>
 <h3 align="center">A aspiring developer, and still student, from Poland</h3>
 
-- 🔭 I’m currently working on [management app](https://github.com/RobertKozik/Kanban_style_webapp)
+<!-- - 🔭 I’m currently working on [management app](https://github.com/RobertKozik/Kanban_style_webapp) -->
 
-- 🌱 I’m currently learning **React, GraphQL**
+- 🌱 I’m currently learning **WEB3 stacks related technologies**
 
 - 👨‍💻 All of my projects are available at [rkozik.live](https://www.rkozik.live)
 
